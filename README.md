@@ -1,3 +1,3 @@
 # espresso
 
-skod projekt til skolen wallæ 
+Et skoleprojekt til opdateringen af Expresso House hjemmesiden:-)
